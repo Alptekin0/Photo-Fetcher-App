@@ -2,11 +2,13 @@ Kullanıcıdan aldığı anahtar kelimeyle Unsplash API üzerinden fotoğraflar 
 sonuçları listeleyen bir web uygulamasıdır.
 
 
+
 ## 🖼️ Uygulama Önizlemesi
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f52b3422-cf5b-409e-bc39-ea5e81f93a90" width="600" alt="Pixel Hunt Preview">
+  <img src="https://github.com/user-attachments/assets/659d527a-3cdf-4a6c-9335-e53329ad3b9a" width="600" alt="Pixel Hunt Preview">
 </p>
+
 
 Özellikler:
 -  Anahtar kelimeye göre resim arama
